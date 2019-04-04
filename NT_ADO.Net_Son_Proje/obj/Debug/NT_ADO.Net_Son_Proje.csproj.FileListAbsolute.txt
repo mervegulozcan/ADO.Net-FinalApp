@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\bin\Debug\NT_ADO.Net_Son_Proje.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\bin\Debug\NT_ADO.Net_Son_Proje.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\bin\Debug\NT_ADO.Net_Son_Proje.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_Son_Proje\NT_ADO.Net_Son_Proje\obj\Debug\NT_ADO.Net_Son_Proje.pdb
